@@ -1,5 +1,5 @@
 ## Finie Project Hub
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/d9a67e5b-52bb-450d-8f29-88de9bb7eccb-profile_image-300x300.png" data-canonical-src="https://static-cdn.jtvnw.net/jtv_user_pictures/d9a67e5b-52bb-450d-8f29-88de9bb7eccb-profile_image-300x300.png" width="200" height="400" />
 
 This site serves as a hub for all the projects on my GitHub.
 
