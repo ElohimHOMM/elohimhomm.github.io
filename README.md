@@ -5,8 +5,8 @@ This site serves as a hub for all the projects on my GitHub.
 
 ### List of Projects
 
-- [UCG](url)
-- [WynnHERO](url)
+- [UCG](unnamedClickerGame)
+- [WynnHERO](WynnHERO)
 
 
 ### Support or Contact
