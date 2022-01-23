@@ -8,6 +8,7 @@ This site serves as a hub for all the projects on my GitHub.
 - [UCG](unnamedClickerGame)
 - [WynnHERO](WynnHERO)
 - [Frostprime Modroll](frostprimemodroll)
+- [Monster Hunter Rise API](MHR_API)
 
 
 ### Support or Contact
