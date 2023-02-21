@@ -5,4 +5,4 @@ Contact:
 Discord: Finie#6969
 
 
-[Back]()
+[Back](https://elohimssg.github.io/)
