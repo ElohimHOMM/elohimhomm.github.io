@@ -11,6 +11,8 @@ Visit my Github Profile [here](https://github.com/ElohimHOMM)
 - [The Elohim Tree](the-elohim-tree)
     - Attempt at an Idle-Game
     - Very much paused
+- [WynnHERO](WynnHERO) 
+    - Specification of my Discord Bot accessing the Wynncraft API
 
 ### One Off Projects Made For Specific People or something like that
 
@@ -27,9 +29,6 @@ Visit my Github Profile [here](https://github.com/ElohimHOMM)
 ## List of non working projects
 
 ### Non-Working Links with future plans
-- [WynnHERO](WynnHERO) 
-    - CURRENTLY NOT WORKING
-    - I want this to be a specification of my Wynncraft Discord Bot eventually.
 - [Elohim AOC](elohim-aoc)
     - CURRENTLY NOT WORKING
     - Again, I want this to eventually be a UI for AOC with explanations
