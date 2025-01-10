@@ -3,4 +3,4 @@ Made by Elohim
 Contact:
 Discord: elohim
 
-[Back](https://elohimssg.github.io/)
+[Back](https://elohimhomm.github.io/)
