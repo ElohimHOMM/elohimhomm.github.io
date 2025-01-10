@@ -1,4 +1,4 @@
-## ElohimSSG Project Hub
+## Elohim Project Hub
 
 This site serves as a hub for all the projects on my GitHub.
 
