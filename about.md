@@ -1,8 +1,6 @@
-Made by Finie
-
+Made by Elohim
 
 Contact:
-Discord: Finie#6969
-
+Discord: elohim
 
 [Back](https://elohimssg.github.io/)
