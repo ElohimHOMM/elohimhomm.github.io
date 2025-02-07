@@ -13,6 +13,9 @@ Visit my Github Profile [here](https://github.com/ElohimHOMM)
     - Very much paused
 - [WynnHERO](WynnHERO) 
     - Specification of my Discord Bot accessing the Wynncraft API
+- [train-project](train-project) 
+    - Honestly I didn't know what this project would be, turns out it's just AOC again, but in JS this time with a nifty little UI.
+    - I'm probably not going to be working on it too much, but it is a fun little thing to do while I'm peddling for 5 hours.
 
 ### One Off Projects Made For Specific People or something like that
 
