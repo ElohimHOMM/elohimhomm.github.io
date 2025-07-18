@@ -16,11 +16,16 @@ Visit my Github Profile [here](https://github.com/ElohimHOMM)
 - [train-project](train-project) 
     - Honestly I didn't know what this project would be, turns out it's just AOC again, but in JS this time with a nifty little UI.
     - I'm probably not going to be working on it too much, but it is a fun little thing to do while I'm peddling for 5 hours.
+- [Hypixel Skyblock Tools](HSB-tools) 
+    - Honestly I didn't know what this project would be, turns out it's just AOC again, but in JS this time with a nifty little UI.
+    - I'm probably not going to be working on it too much, but it is a fun little thing to do while I'm peddling for 5 hours.
 
 ### One Off Projects Made For Specific People or something like that
 
 - [howabouthamburg](howabouthamburg) 
     - Made to ask someone out on a date.
+- [Liz Timer](liz-timer) 
+    - A countdown
 
 ### NSFW Projects
 
